@@ -4,7 +4,7 @@ variable "resource-group-name" {
 }
 
 variable "app-service-name" {
-  default = "terraform-app-alezanper1"
+  default = "terraform-app-alezanper12"
   description = "The name of the Web App"
 }
 
